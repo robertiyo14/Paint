@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/hand"
+        android:icon="@drawable/hand"
+        android:showAsAction="always"
+        android:title="hand" />
+    <item
+        android:id="@+id/line"
+        android:icon="@drawable/line"
+        android:showAsAction="always"
+        android:title="line" />
+    <item
+        android:id="@+id/rectangle"
+        android:icon="@drawable/rectangle"
+        android:showAsAction="always"
+        android:title="rectangle" />
+    <item
+        android:id="@+id/circle"
+        android:icon="@drawable/circle"
+        android:showAsAction="always"
+        android:title="circle" />
+    <item
+        android:id="@+id/color"
+        android:icon="@drawable/color"
+        android:showAsAction="always"
+        android:title="color" />
+    <item
+        android:id="@+id/eraser"
+        android:icon="@drawable/eraser"
+        android:showAsAction="always"
+        android:title="color" />
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/save"
+        android:showAsAction="always"
+        android:title="save" />
+</menu>
